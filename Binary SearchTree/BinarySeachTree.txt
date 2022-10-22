@@ -1,0 +1,14 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+1-sorting işlemi gerçekleştirilir.
+[0,1,2,3,4,5,6,7,8,9]
+
+2- Root 4'tür (5 de root olabilir).Solunda [0,1,2,3], sağında [5,6,7,8,9] elemanları yer alır.
+
+                            4
+                        /      \
+                       1         7
+                     / \        / \
+                    0   2      6   8
+                         \    /     \
+                          3  5       9
